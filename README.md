@@ -2,4 +2,4 @@
 
 Exercicios resolvidos.
 
-Acesse por aqui.[Beecrowd](https://www.beecrowd.com.br/judge/pt).
+Acesse por aqui [Beecrowd](https://www.beecrowd.com.br/judge/pt).
